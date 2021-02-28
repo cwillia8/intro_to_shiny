@@ -1,0 +1,12 @@
+name: my_shiny_app
+title: my_shiny_app
+username:
+account: caleb-williams-3223-simple-applications-rstudio-shiny-package
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3711366
+bundleId: 4282720
+url: https://caleb-williams-3223-simple-applications-rstudio-shiny-package.shinyapps.io/my_shiny_app/
+when: 1614543262.01581
+asMultiple: FALSE
+asStatic: FALSE
